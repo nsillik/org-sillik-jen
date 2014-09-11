@@ -1520,3 +1520,7 @@ footer {
 .about_pic {
 	width: 50px;
 }
+
+section#aboutus p {
+  margin-bottom: 15px;
+}
