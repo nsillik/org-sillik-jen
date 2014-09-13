@@ -120,6 +120,7 @@ jQuery(document).ready(function($) {
                 $('#loader').hide();
                 content.fadeIn(600);
                 $('#back-button').fadeIn(600);
+                loadOwl();
             });
         },800);
 

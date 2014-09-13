@@ -77,3 +77,9 @@
 	min-height: 150px;
 	background: url(AjaxLoader.gif) no-repeat center center
 }
+
+.project-slideshow.owl-carousel .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
