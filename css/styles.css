@@ -751,6 +751,7 @@ width: -webkit-calc(100% / 2);
 @media screen and (max-width: 480px) {
 	.cbp-rfgrid li {
 	width: 100%;
+  margin-bottom: 10px;
 }
 }
 @media screen and (max-width: 300px) {
