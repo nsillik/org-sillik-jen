@@ -1181,7 +1181,7 @@ width: -webkit-calc(100% / 2);
 /*---ITEM STYLE ---*/
 .item {
 	width: 100%;
-	height: 260px;
+	height: 410px;
 	display: block;
 	-webkit-background-size: 100%;
 	        background-size: 100%;
@@ -1390,7 +1390,7 @@ width: -webkit-calc(100% / 2);
 	text-align: center;
 }
 .owl-theme .owl-controls .owl-page span {
-	background: #886e0e;
+	background: #00a550;
 	border-radius: 50%;
 }
 .customNavigation a {
